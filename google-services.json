@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664376515052",
+    "firebase_url": "https://iot-test-c98bb.firebaseio.com",
+    "project_id": "iot-test-c98bb",
+    "storage_bucket": "iot-test-c98bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664376515052:android:dc5714be92d9bd8ade08c9",
+        "android_client_info": {
+          "package_name": "com.demo.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664376515052-eg1fep3ov68ep9ti9agvnfc7ba233mn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDYffOTBOAsecCAK61ZGiDPVM8TQEIT74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664376515052-eg1fep3ov68ep9ti9agvnfc7ba233mn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

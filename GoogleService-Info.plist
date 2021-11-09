@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>664376515052-i5dcnrnu4imptlkr0rfor591qa7n3igh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.664376515052-i5dcnrnu4imptlkr0rfor591qa7n3igh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAv5GV4fPTElyYDKkOgCB8cPmLSOGCpVR4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>664376515052</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.demo.mobile</string>
+	<key>PROJECT_ID</key>
+	<string>iot-test-c98bb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iot-test-c98bb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:664376515052:ios:076b780fda3a3e75de08c9</string>
+	<key>DATABASE_URL</key>
+	<string>https://iot-test-c98bb.firebaseio.com</string>
+</dict>
+</plist>
